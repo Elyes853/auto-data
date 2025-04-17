@@ -22,7 +22,7 @@ It navigates through car brands, models, and detail pages to collect structured 
 ## 📹 Demo
 
 Check out the video walkthrough of this project here:  
-👉 [Video Link](#)
+👉 [[Video Link](https://youtu.be/uqyYS6WCWnk)](#)
 
 ## 📂 Features
 
