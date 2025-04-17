@@ -1,0 +1,426 @@
+[
+  {
+    "model name": "ZX GrandTiger",
+    "car_variants": [
+      {
+        "car variant name": "2.4 (126 Hp) 4x4 Automatic",
+        "car variant details": {
+          "General information": {
+            "Brand": "ZX",
+            "Model": "GrandTiger",
+            "Generation": "GrandTiger",
+            "Modification (Engine)": "2.4 (126 Hp) 4x4 Automatic",
+            "Start of production": "2007 year",
+            "End of production": "2011 year",
+            "Powertrain Architecture": "Internal Combustion engine",
+            "Body type": "Pick-up",
+            "Seats": "5",
+            "Doors": "4"
+          },
+          "Performance specs": {
+            "Fuel consumption (economy) - combined": "13 l/100 km 18.09 US mpg 21.73 UK mpg 7.69 km/l",
+            "Fuel Type": "Petrol (Gasoline)",
+            "Maximum speed": "140 km/h 86.99 mph",
+            "Emission standard": "Euro 2",
+            "Weight-to-power ratio": "12.8 kg/Hp, 78.3 Hp/tonne",
+            "Weight-to-torque ratio": "8.3 kg/Nm, 119.9 Nm/tonne"
+          },
+          "Engine specs": {
+            "Power": "126 Hp @ 5200 rpm.",
+            "Power per litre": "53.6 Hp/l",
+            "Torque": "193 Nm @ 3000 rpm. 142.35 lb.-ft. @ 3000 rpm.",
+            "Engine Model/Code": "4G64 S4M(Mitsubishi)",
+            "Engine displacement": "2351 cm 3 143.47 cu. in.",
+            "Number of cylinders": "4",
+            "Engine configuration": "Inline",
+            "Cylinder Bore": "86.5 mm 3.41 in.",
+            "Piston Stroke": "100 mm 3.94 in.",
+            "Compression ratio": "9.5:1",
+            "Number of valves per cylinder": "4",
+            "Fuel injection system": "Multi-port manifold injection",
+            "Engine aspiration": "Naturally aspirated engine",
+            "Valvetrain": "DOHC",
+            "Engine oil capacity": "4.3 l 4.54 US qt | 3.78 UK qt",
+            "Engine oil specification": "Log in to see."
+          },
+          "": {},
+          "Space, Volume and weights": {
+            "Kerb Weight": "1610 kg 3549.44 lbs.",
+            "Max. weight": "2110 kg 4651.75 lbs.",
+            "Max load": "500 kg 1102.31 lbs.",
+            "Fuel tank capacity": "65 l 17.17 US gal | 14.3 UK gal"
+          },
+          "Dimensions": {
+            "Length": "5080 mm 200 in.",
+            "Width": "1750 mm 68.9 in.",
+            "Height": "1735 mm 68.31 in.",
+            "Wheelbase": "2850 mm 112.2 in."
+          },
+          "Drivetrain, brakes and suspension specs": {
+            "Drive wheel": "All wheel drive (4x4)",
+            "Number of gears and type of gearbox": "4 gears, automatic transmission",
+            "Front brakes": "Disc",
+            "Rear brakes": "Drum",
+            "Assisting systems": "ABS (Anti-lock braking system)",
+            "Power steering": "Hydraulic Steering",
+            "Tires size": "235/70 R16"
+          }
+        }
+      },
+      {
+        "car variant name": "2.4 (126 Hp) 4x4",
+        "car variant details": {
+          "General information": {
+            "Brand": "ZX",
+            "Model": "GrandTiger",
+            "Generation": "GrandTiger",
+            "Modification (Engine)": "2.4 (126 Hp) 4x4",
+            "Start of production": "2007 year",
+            "End of production": "2011 year",
+            "Powertrain Architecture": "Internal Combustion engine",
+            "Body type": "Pick-up",
+            "Seats": "5",
+            "Doors": "4"
+          },
+          "Performance specs": {
+            "Fuel consumption (economy) - combined": "13 l/100 km 18.09 US mpg 21.73 UK mpg 7.69 km/l",
+            "Fuel Type": "Petrol (Gasoline)",
+            "Maximum speed": "140 km/h 86.99 mph",
+            "Emission standard": "Euro 2",
+            "Weight-to-power ratio": "12.8 kg/Hp, 78.3 Hp/tonne",
+            "Weight-to-torque ratio": "8.3 kg/Nm, 119.9 Nm/tonne"
+          },
+          "Engine specs": {
+            "Power": "126 Hp @ 5200 rpm.",
+            "Power per litre": "53.6 Hp/l",
+            "Torque": "193 Nm @ 3000 rpm. 142.35 lb.-ft. @ 3000 rpm.",
+            "Engine Model/Code": "4G64 S4M(Mitsubishi)",
+            "Engine displacement": "2351 cm 3 143.47 cu. in.",
+            "Number of cylinders": "4",
+            "Engine configuration": "Inline",
+            "Cylinder Bore": "86.5 mm 3.41 in.",
+            "Piston Stroke": "100 mm 3.94 in.",
+            "Compression ratio": "9.5:1",
+            "Number of valves per cylinder": "4",
+            "Fuel injection system": "Multi-port manifold injection",
+            "Engine aspiration": "Naturally aspirated engine",
+            "Valvetrain": "DOHC",
+            "Engine oil capacity": "4.3 l 4.54 US qt | 3.78 UK qt",
+            "Engine oil specification": "Log in to see."
+          },
+          "": {},
+          "Space, Volume and weights": {
+            "Kerb Weight": "1610 kg 3549.44 lbs.",
+            "Max. weight": "2110 kg 4651.75 lbs.",
+            "Max load": "500 kg 1102.31 lbs.",
+            "Fuel tank capacity": "65 l 17.17 US gal | 14.3 UK gal"
+          },
+          "Dimensions": {
+            "Length": "5080 mm 200 in.",
+            "Width": "1750 mm 68.9 in.",
+            "Height": "1735 mm 68.31 in.",
+            "Wheelbase": "2850 mm 112.2 in."
+          },
+          "Drivetrain, brakes and suspension specs": {
+            "Drive wheel": "All wheel drive (4x4)",
+            "Number of gears and type of gearbox": "5 gears, manual transmission",
+            "Front brakes": "Disc",
+            "Rear brakes": "Drum",
+            "Assisting systems": "ABS (Anti-lock braking system)",
+            "Power steering": "Hydraulic Steering",
+            "Tires size": "235/70 R16"
+          }
+        }
+      },
+      {
+        "car variant name": "2.4 (126 Hp) 4x2",
+        "car variant details": {
+          "General information": {
+            "Brand": "ZX",
+            "Model": "GrandTiger",
+            "Generation": "GrandTiger",
+            "Modification (Engine)": "2.4 (126 Hp) 4x2",
+            "Start of production": "2007 year",
+            "End of production": "2011 year",
+            "Powertrain Architecture": "Internal Combustion engine",
+            "Body type": "Pick-up",
+            "Seats": "5",
+            "Doors": "4"
+          },
+          "Performance specs": {
+            "Fuel consumption (economy) - combined": "13 l/100 km 18.09 US mpg 21.73 UK mpg 7.69 km/l",
+            "Fuel Type": "Petrol (Gasoline)",
+            "Maximum speed": "140 km/h 86.99 mph",
+            "Emission standard": "Euro 2",
+            "Weight-to-power ratio": "12.8 kg/Hp, 78.3 Hp/tonne",
+            "Weight-to-torque ratio": "8.3 kg/Nm, 119.9 Nm/tonne"
+          },
+          "Engine specs": {
+            "Power": "126 Hp @ 5200 rpm.",
+            "Power per litre": "53.6 Hp/l",
+            "Torque": "193 Nm @ 3000 rpm. 142.35 lb.-ft. @ 3000 rpm.",
+            "Engine layout": "Front, Longitudinal",
+            "Engine Model/Code": "4G64 S4M(Mitsubishi)",
+            "Engine displacement": "2351 cm 3 143.47 cu. in.",
+            "Number of cylinders": "4",
+            "Engine configuration": "Inline",
+            "Cylinder Bore": "86.5 mm 3.41 in.",
+            "Piston Stroke": "100 mm 3.94 in.",
+            "Compression ratio": "9.5:1",
+            "Number of valves per cylinder": "4",
+            "Fuel injection system": "Multi-port manifold injection",
+            "Engine aspiration": "Naturally aspirated engine",
+            "Valvetrain": "DOHC",
+            "Engine oil capacity": "4.3 l 4.54 US qt | 3.78 UK qt",
+            "Engine oil specification": "Log in to see."
+          },
+          "": {},
+          "Space, Volume and weights": {
+            "Kerb Weight": "1610 kg 3549.44 lbs.",
+            "Max. weight": "2110 kg 4651.75 lbs.",
+            "Max load": "500 kg 1102.31 lbs.",
+            "Fuel tank capacity": "65 l 17.17 US gal | 14.3 UK gal"
+          },
+          "Dimensions": {
+            "Length": "5080 mm 200 in.",
+            "Width": "1750 mm 68.9 in.",
+            "Height": "1735 mm 68.31 in.",
+            "Wheelbase": "2850 mm 112.2 in."
+          },
+          "Drivetrain, brakes and suspension specs": {
+            "Drivetrain Architecture": "The Internal combustion engine (ICE) drives the rear wheels of the vehicle.",
+            "Drive wheel": "Rear wheel drive",
+            "Number of gears and type of gearbox": "5 gears, manual transmission",
+            "Front brakes": "Disc",
+            "Rear brakes": "Drum",
+            "Assisting systems": "ABS (Anti-lock braking system)",
+            "Power steering": "Hydraulic Steering",
+            "Tires size": "235/70 R16"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "model name": "ZX Landmark",
+    "car_variants": [
+      {
+        "car variant name": "2.4 (126 Hp) 4x4",
+        "car variant details": {
+          "General information": {
+            "Brand": "ZX",
+            "Model": "Landmark",
+            "Generation": "Landmark",
+            "Modification (Engine)": "2.4 (126 Hp) 4x4",
+            "Start of production": "2006 year",
+            "End of production": "2009 year",
+            "Powertrain Architecture": "Internal Combustion engine",
+            "Body type": "SUV",
+            "Seats": "7",
+            "Doors": "5"
+          },
+          "Performance specs": {
+            "Fuel consumption (economy) - extra urban": "12 l/100 km 19.6 US mpg 23.54 UK mpg 8.33 km/l",
+            "Fuel consumption (economy) - combined": "13 l/100 km 18.09 US mpg 21.73 UK mpg 7.69 km/l",
+            "Fuel Type": "Petrol (Gasoline)",
+            "Maximum speed": "140 km/h 86.99 mph",
+            "Emission standard": "Euro 2",
+            "Weight-to-power ratio": "14.1 kg/Hp, 70.8 Hp/tonne",
+            "Weight-to-torque ratio": "9.2 kg/Nm, 108.4 Nm/tonne"
+          },
+          "Engine specs": {
+            "Power": "126 Hp @ 5200 rpm.",
+            "Power per litre": "53.6 Hp/l",
+            "Torque": "193 Nm @ 3000 rpm. 142.35 lb.-ft. @ 3000 rpm.",
+            "Engine Model/Code": "4G64 S4M(Mitsubishi)",
+            "Engine displacement": "2351 cm 3 143.47 cu. in.",
+            "Number of cylinders": "4",
+            "Engine configuration": "Inline",
+            "Cylinder Bore": "86.5 mm 3.41 in.",
+            "Piston Stroke": "100 mm 3.94 in.",
+            "Compression ratio": "9.5:1",
+            "Number of valves per cylinder": "4",
+            "Fuel injection system": "Multi-port manifold injection",
+            "Engine aspiration": "Naturally aspirated engine",
+            "Valvetrain": "DOHC",
+            "Engine oil capacity": "4.3 l 4.54 US qt | 3.78 UK qt",
+            "Engine oil specification": "Log in to see."
+          },
+          "": {},
+          "Space, Volume and weights": {
+            "Kerb Weight": "1780 kg 3924.23 lbs.",
+            "Max. weight": "2235 kg 4927.33 lbs.",
+            "Max load": "455 kg 1003.1 lbs.",
+            "Fuel tank capacity": "73 l 19.28 US gal | 16.06 UK gal"
+          },
+          "Dimensions": {
+            "Length": "5050 mm 198.82 in.",
+            "Width": "1760 mm 69.29 in.",
+            "Height": "1775 mm 69.88 in.",
+            "Wheelbase": "2850 mm 112.2 in.",
+            "Front track": "1472 mm 57.95 in.",
+            "Rear (Back) track": "1477 mm 58.15 in.",
+            "Minimum turning circle (turning diameter)": "12.8 m 41.99 ft."
+          },
+          "Drivetrain, brakes and suspension specs": {
+            "Drive wheel": "All wheel drive (4x4)",
+            "Number of gears and type of gearbox": "5 gears, manual transmission",
+            "Front suspension": "Torsion",
+            "Front brakes": "Disc",
+            "Rear brakes": "Drum",
+            "Assisting systems": "ABS (Anti-lock braking system)",
+            "Power steering": "Hydraulic Steering",
+            "Tires size": "235/70R16",
+            "Wheel rims size": "7J x 16"
+          }
+        }
+      },
+      {
+        "car variant name": "2.4 (126 Hp) 4x2 Automatic",
+        "car variant details": {
+          "General information": {
+            "Brand": "ZX",
+            "Model": "Landmark",
+            "Generation": "Landmark",
+            "Modification (Engine)": "2.4 (126 Hp) 4x2 Automatic",
+            "Start of production": "2006 year",
+            "End of production": "2009 year",
+            "Powertrain Architecture": "Internal Combustion engine",
+            "Body type": "SUV",
+            "Seats": "7",
+            "Doors": "5"
+          },
+          "Performance specs": {
+            "Fuel consumption (economy) - extra urban": "9 l/100 km 26.13 US mpg 31.39 UK mpg 11.11 km/l",
+            "Fuel consumption (economy) - combined": "13 l/100 km 18.09 US mpg 21.73 UK mpg 7.69 km/l",
+            "Fuel Type": "Petrol (Gasoline)",
+            "Maximum speed": "140 km/h 86.99 mph",
+            "Emission standard": "Euro 2",
+            "Weight-to-power ratio": "13.6 kg/Hp, 73.7 Hp/tonne",
+            "Weight-to-torque ratio": "8.9 kg/Nm, 112.9 Nm/tonne"
+          },
+          "Engine specs": {
+            "Power": "126 Hp @ 5200 rpm.",
+            "Power per litre": "53.6 Hp/l",
+            "Torque": "193 Nm @ 3000 rpm. 142.35 lb.-ft. @ 3000 rpm.",
+            "Engine Model/Code": "4G64 S4M(Mitsubishi)",
+            "Engine displacement": "2351 cm 3 143.47 cu. in.",
+            "Number of cylinders": "4",
+            "Engine configuration": "Inline",
+            "Cylinder Bore": "86.5 mm 3.41 in.",
+            "Piston Stroke": "100 mm 3.94 in.",
+            "Compression ratio": "9.5:1",
+            "Number of valves per cylinder": "4",
+            "Fuel injection system": "Multi-port manifold injection",
+            "Engine aspiration": "Naturally aspirated engine",
+            "Valvetrain": "DOHC",
+            "Engine oil capacity": "4.3 l 4.54 US qt | 3.78 UK qt",
+            "Engine oil specification": "Log in to see."
+          },
+          "": {},
+          "Space, Volume and weights": {
+            "Kerb Weight": "1710 kg 3769.9 lbs.",
+            "Max. weight": "2165 kg 4773.01 lbs.",
+            "Max load": "455 kg 1003.1 lbs.",
+            "Fuel tank capacity": "73 l 19.28 US gal | 16.06 UK gal"
+          },
+          "Dimensions": {
+            "Length": "4750 mm 187.01 in.",
+            "Width": "1750 mm 68.9 in.",
+            "Height": "1735 mm 68.31 in.",
+            "Wheelbase": "2850 mm 112.2 in.",
+            "Front track": "1472 mm 57.95 in.",
+            "Rear (Back) track": "1477 mm 58.15 in.",
+            "Minimum turning circle (turning diameter)": "12.8 m 41.99 ft."
+          },
+          "Drivetrain, brakes and suspension specs": {
+            "Drivetrain Architecture": "The Internal combustion engine (ICE) drives the rear wheels of the vehicle.",
+            "Drive wheel": "Rear wheel drive",
+            "Number of gears and type of gearbox": "4 gears, automatic transmission",
+            "Front suspension": "Torsion",
+            "Rear suspension": "Leaf spring",
+            "Front brakes": "Disc",
+            "Rear brakes": "Drum",
+            "Assisting systems": "ABS (Anti-lock braking system)",
+            "Power steering": "Hydraulic Steering",
+            "Tires size": "235/70 R16",
+            "Wheel rims size": "7J x 16"
+          }
+        }
+      },
+      {
+        "car variant name": "2.4 (126 Hp)",
+        "car variant details": {
+          "General information": {
+            "Brand": "ZX",
+            "Model": "Landmark",
+            "Generation": "Landmark",
+            "Modification (Engine)": "2.4 (126 Hp)",
+            "Start of production": "2006 year",
+            "End of production": "2009 year",
+            "Powertrain Architecture": "Internal Combustion engine",
+            "Body type": "SUV",
+            "Seats": "7",
+            "Doors": "5"
+          },
+          "Performance specs": {
+            "Fuel consumption (economy) - extra urban": "9 l/100 km 26.13 US mpg 31.39 UK mpg 11.11 km/l",
+            "Fuel consumption (economy) - combined": "13 l/100 km 18.09 US mpg 21.73 UK mpg 7.69 km/l",
+            "Fuel Type": "Petrol (Gasoline)",
+            "Maximum speed": "140 km/h 86.99 mph",
+            "Emission standard": "Euro 2",
+            "Weight-to-power ratio": "13.3 kg/Hp, 75.4 Hp/tonne",
+            "Weight-to-torque ratio": "8.7 kg/Nm, 115.6 Nm/tonne"
+          },
+          "Engine specs": {
+            "Power": "126 Hp @ 5200 rpm.",
+            "Power per litre": "53.6 Hp/l",
+            "Torque": "193 Nm @ 3000 rpm. 142.35 lb.-ft. @ 3000 rpm.",
+            "Engine Model/Code": "4G64 S4M(Mitsubishi)",
+            "Engine displacement": "2351 cm 3 143.47 cu. in.",
+            "Number of cylinders": "4",
+            "Engine configuration": "Inline",
+            "Cylinder Bore": "86.5 mm 3.41 in.",
+            "Piston Stroke": "100 mm 3.94 in.",
+            "Compression ratio": "9.5:1",
+            "Number of valves per cylinder": "4",
+            "Fuel injection system": "Multi-port manifold injection",
+            "Engine aspiration": "Naturally aspirated engine",
+            "Valvetrain": "DOHC",
+            "Engine oil capacity": "4.3 l 4.54 US qt | 3.78 UK qt",
+            "Engine oil specification": "Log in to see."
+          },
+          "": {},
+          "Space, Volume and weights": {
+            "Kerb Weight": "1670 kg 3681.72 lbs.",
+            "Max. weight": "2125 kg 4684.82 lbs.",
+            "Max load": "455 kg 1003.1 lbs.",
+            "Fuel tank capacity": "73 l 19.28 US gal | 16.06 UK gal"
+          },
+          "Dimensions": {
+            "Length": "5020 mm 197.64 in.",
+            "Width": "1750 mm 68.9 in.",
+            "Height": "1735 mm 68.31 in.",
+            "Wheelbase": "2850 mm 112.2 in.",
+            "Front track": "1472 mm 57.95 in.",
+            "Rear (Back) track": "1477 mm 58.15 in.",
+            "Minimum turning circle (turning diameter)": "12.8 m 41.99 ft."
+          },
+          "Drivetrain, brakes and suspension specs": {
+            "Drivetrain Architecture": "The Internal combustion engine (ICE) drives the rear wheels of the vehicle.",
+            "Drive wheel": "Rear wheel drive",
+            "Number of gears and type of gearbox": "5 gears, manual transmission",
+            "Front suspension": "Torsion",
+            "Rear suspension": "Leaf spring",
+            "Front brakes": "Disc",
+            "Rear brakes": "Drum",
+            "Assisting systems": "ABS (Anti-lock braking system)",
+            "Power steering": "Hydraulic Steering",
+            "Tires size": "235/70 R16",
+            "Wheel rims size": "7J x 16"
+          }
+        }
+      }
+    ]
+  }
+]
